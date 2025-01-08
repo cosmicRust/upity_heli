@@ -383,7 +383,7 @@ class GameLoop:
         for cloud in self.clouds:
             self.screen.blit(self.cloud_image, cloud)
 
-        # Move clouds for procedural effect
+        # Move clouds for procedural effect hello
         self.clouds = [(x - 1 if x > -100 else 800, y) for x, y in self.clouds]
 
     def handle_menu_input(self, event):
