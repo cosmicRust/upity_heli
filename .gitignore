@@ -1,0 +1,5 @@
+*.gitignore
+/backend/__pychace__/*
+gm/*
+high_scores.csv
+reigning_score.csv
