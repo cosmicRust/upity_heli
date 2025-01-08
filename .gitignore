@@ -1,4 +1,4 @@
-*.gitignore
+/.gitignore
 /backend/__pychace__/*
 gm/*
 high_scores.csv
