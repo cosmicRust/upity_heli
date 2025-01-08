@@ -1,7 +1,2 @@
 Pillow
 pygame
-pandas
-numpy
-pyaudio
-scipy
-arcade
